@@ -85,7 +85,7 @@ Autonomous AI agent that plans tasks, uses tools, and completes multi-step work.
 </td>
 <td width="50%">
 
-### 💬 Chatbot
+###  Chatbot
 Conversational chatbot that answers user questions and keeps track of context.
 
 **Tech:** Python, NLP, Streamlit
