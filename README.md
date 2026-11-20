@@ -1,17 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20there%2C%20I'm%20Rania%20Chaudhry%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Enthusiast&descAlignY=58&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20there%2C%20I%27m%20Rania%20Chaudhry&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Enthusiast&descAlignY=58&descAlign=50" width="100%" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C77DFF&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Always+Curious;Always+Learning;Turning+data+into+insights;Building+intelligent+systems" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C77DFF&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Always+Curious;Always+Learning;Turning+data+into+insights;Building+intelligent+systems" alt="Typing SVG" />
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=RaniaChaudhry511&style=for-the-badge&color=C77DFF&label=PROFILE+VIEWS" />
 
 </div>
-
 ---
 
 <details open>
